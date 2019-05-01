@@ -26,6 +26,11 @@ def repeater
 end
 
 # Table of contents, revisited
+#                 Table of Contents                 
+# Chapter 1      Getting Started      page   1
+# Chapter 2      Numbers              page   9
+# Chapter 3      Letters              page  13
+
 def table_of_contents
   chapters = [
     {
